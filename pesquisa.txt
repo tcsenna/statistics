@@ -1,0 +1,21 @@
+Gender	Educational Attainment	Political Orientation	Political Optimism Scale	Number of Political Protests and Rallies Ever Participated in
+female	high school diploma	very conservative	35	4
+female	high school diploma	slightly conservative	16	3
+male	no high school diploma	very conservative	21	10
+female	college or university degree	moderate	11	2
+female	college or university degree	very conservative	1	1
+female	high school diploma	very liberal	47	1
+male	high school diploma	moderate	9	1
+male	college or university degree	very liberal	40	1
+female	high school diploma	slightly liberal	48	3
+male	high school diploma	very conservative	13	4
+female	high school diploma	moderate	26	3
+female	graduate degree	slightly liberal	35	2
+male	no high school diploma	very liberal	45	50
+male	high school diploma	slightly liberal	43	2
+male	graduate degree	moderate	22	4
+female	high school diploma	slightly liberal	29	3
+male	no high school diploma	very conservative	36	22
+female	college or university degree	moderate	36	1
+female	no high school diploma	very liberal	4	38
+male	no high school diploma	moderate	18	2

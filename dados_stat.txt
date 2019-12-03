@@ -1,0 +1,20 @@
+57	Not too happy	2	Not religious
+57	Very happy	2	Islamic
+11	Pretty happy	1	Not religious
+25	Pretty happy	2	Hindu
+31	Very happy	0	Hindu
+47	Not too happy	0	Christian
+47	Not too happy	2	Other religion
+64	Very happy	1	Islamic
+29	Not too happy	3	Christian
+36	Pretty happy	3	Other religion
+2	Very happy	0	Other religion
+59	Pretty happy	3	Christian
+31	Very happy	0	Jewish
+4	Not too happy	1	Islamic
+52	Not too happy	3	Christian
+70	Pretty happy	0	Christian
+60	Not too happy	2	Buddhist
+76	Very happy	3	Not religious
+56	Pretty happy	0	Other religion
+59	Very happy	0	Not religious
