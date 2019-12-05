@@ -1,0 +1,18 @@
+Group A	Group B	Group C
+mini van	sedan	mini van
+sports car	station wagon	sedan
+station wagon	sports car	mini van
+sedan	mini van	truck
+sedan	sedan	station wagon
+sports utility vehicle	sedan	sedan
+mini van	truck	sports utility vehicle
+sports car	sports utility vehicle	sports car
+truck	sedan	mini van
+sports utility vehicle	truck	sports utility vehicle
+sports utility vehicle	station wagon	sedan
+mini van	sedan	truck
+truck	sports car	sports car
+station wagon	sports utility vehicle	station wagon
+sedan	sedan	sedan
+sports utility vehicle	sedan	sports utility vehicle
+sports utility vehicle	sports utility vehicle	station wagon

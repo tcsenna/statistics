@@ -1,0 +1,3 @@
+	women	men
+over	10	4
+under	2	6
